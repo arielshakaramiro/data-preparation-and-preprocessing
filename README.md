@@ -113,6 +113,4 @@ Shape of Test Data: (146, 9)
 - Reduksi dimensi (PCA)
 
 ---
-
-## 📬 Kontak
-Untuk pertanyaan atau pengembangan lebih lanjut, silakan hubungi via Issues atau Pull Request.
+Created with by Ariel Shakaramiro
