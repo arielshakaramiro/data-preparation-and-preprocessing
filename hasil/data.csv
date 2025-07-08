@@ -1,0 +1,1021 @@
+age,salary,gender,city
+56,146748.0,Female,Phoenix
+46,35287.0,Male,Los Angeles
+32,64387.0,Female,Houston
+60,38512.0,Male,Los Angeles
+25,31342.0,Male,Houston
+38,93076.0,Female,Houston
+56,138872.0,Male,Los Angeles
+36,49216.0,Female,Chicago
+40,147512.0,Female,New York
+28,146682.0,Female,Phoenix
+28,,Female,Houston
+41,109767.0,Female,Phoenix
+53,127829.0,Male,Los Angeles
+57,56614.0,Male,Phoenix
+41,66258.0,Female,Los Angeles
+20,123789.0,Female,Phoenix
+39,72078.0,Male,New York
+19,136288.0,Male,New York
+41,113524.0,Male,New York
+61,126573.0,Male,New York
+47,42219.0,Female,New York
+55,30235.0,Female,New York
+19,72929.0,Male,Los Angeles
+38,,Female,Houston
+50,38567.0,Male,Phoenix
+29,131834.0,Female,New York
+39,100792.0,Male,Los Angeles
+61,95441.0,Female,Los Angeles
+42,114555.0,Male,Los Angeles
+44,103698.0,Male,Houston
+59,147248.0,Female,Phoenix
+45,35415.0,Male,Houston
+33,66159.0,Female,Chicago
+32,73925.0,Female,Los Angeles
+64,35951.0,Male,Chicago
+61,117388.0,Female,New York
+20,38007.0,Female,New York
+54,71832.0,Female,Houston
+24,88596.0,Female,Phoenix
+38,60523.0,Female,Chicago
+26,118861.0,Male,Phoenix
+56,116740.0,Female,Houston
+35,45524.0,Female,New York
+21,49282.0,Female,Phoenix
+42,53930.0,Female,Phoenix
+31,30077.0,Female,New York
+26,135881.0,Male,Chicago
+43,50611.0,Female,New York
+19,46984.0,Male,Phoenix
+37,44060.0,Male,Chicago
+45,112985.0,Male,Chicago
+64,114056.0,Male,New York
+24,73303.0,Female,Phoenix
+61,89207.0,Male,Houston
+25,105046.0,Male,Phoenix
+64,59287.0,Female,Los Angeles
+52,123709.0,Female,Houston
+31,69711.0,Female,Chicago
+34,41954.0,Male,Houston
+53,103340.0,Female,Chicago
+57,102101.0,Female,Chicago
+21,101520.0,Male,Houston
+19,117062.0,Female,Chicago
+23,132974.0,Female,Chicago
+59,48574.0,Female,Los Angeles
+21,39184.0,Female,Phoenix
+46,49096.0,Male,Phoenix
+35,97728.0,Female,Los Angeles
+43,64016.0,Female,Houston
+61,41246.0,Male,New York
+51,75558.0,Female,New York
+27,,Male,New York
+53,48381.0,Female,Los Angeles
+31,66455.0,Male,Los Angeles
+48,122263.0,Male,Chicago
+32,34018.0,Male,New York
+25,41302.0,Male,Houston
+31,97506.0,Female,Houston
+40,71157.0,Male,New York
+57,84917.0,Female,New York
+38,122738.0,Male,New York
+33,126646.0,Male,Los Angeles
+62,113122.0,Male,Los Angeles
+35,54519.0,Female,Los Angeles
+64,126809.0,Male,Phoenix
+41,117487.0,Female,Houston
+43,,Female,Houston
+42,110910.0,Female,Chicago
+62,101324.0,Female,Los Angeles
+58,35408.0,Female,Phoenix
+46,89379.0,Female,Phoenix
+32,55053.0,Female,Houston
+62,39446.0,Female,Los Angeles
+18,30922.0,Female,Chicago
+42,128723.0,Male,Los Angeles
+24,81356.0,Male,New York
+26,40789.0,Male,Los Angeles
+41,127720.0,Male,New York
+18,96656.0,Male,New York
+61,74028.0,Female,Chicago
+25,94484.0,Female,Houston
+41,62154.0,Female,Los Angeles
+28,112870.0,Female,New York
+34,32336.0,Female,Los Angeles
+25,133677.0,Female,Houston
+52,97779.0,Female,Houston
+52,49029.0,Male,Phoenix
+50,89201.0,Male,Houston
+22,62265.0,Male,Chicago
+59,132916.0,Male,New York
+56,142250.0,Female,Phoenix
+58,146553.0,Female,Chicago
+45,73872.0,Female,Los Angeles
+24,76197.0,Male,New York
+26,85180.0,Female,Houston
+25,53710.0,Female,New York
+29,59486.0,Female,Los Angeles
+51,101907.0,Male,Phoenix
+50,101895.0,Female,Phoenix
+40,94435.0,Male,Phoenix
+41,70631.0,Male,Houston
+54,131532.0,Male,Chicago
+52,50103.0,Male,Chicago
+61,94772.0,Female,New York
+57,44382.0,Male,Houston
+39,114291.0,Male,Phoenix
+44,131195.0,Female,Phoenix
+52,33756.0,Female,Los Angeles
+18,50609.0,Male,Los Angeles
+52,144074.0,Female,Phoenix
+54,46478.0,Male,Phoenix
+64,130978.0,Male,Houston
+31,69666.0,Male,Chicago
+20,105683.0,Male,Los Angeles
+18,,Female,Chicago
+22,130420.0,Male,Houston
+43,101315.0,Female,Phoenix
+31,107834.0,Female,Chicago
+56,44153.0,Female,Phoenix
+44,139415.0,Female,Phoenix
+26,106325.0,Male,New York
+32,139701.0,Female,Chicago
+32,42999.0,Male,Chicago
+43,,Female,Phoenix
+59,30814.0,Female,Houston
+30,145033.0,Male,New York
+49,106077.0,Male,Phoenix
+56,120474.0,Male,Los Angeles
+49,32443.0,Female,Los Angeles
+21,105993.0,Female,New York
+47,105916.0,Male,Houston
+54,103319.0,Male,Phoenix
+40,139777.0,Male,Chicago
+56,47368.0,Male,New York
+62,45328.0,Female,Houston
+32,86942.0,Male,Chicago
+60,121751.0,Male,Los Angeles
+46,129131.0,Male,Los Angeles
+53,57306.0,Male,Chicago
+30,115451.0,Female,New York
+49,69915.0,Male,Los Angeles
+24,67219.0,Female,Phoenix
+39,110879.0,Male,Chicago
+45,141939.0,Male,Chicago
+19,94644.0,Female,Los Angeles
+59,90279.0,Male,New York
+62,83028.0,Female,Phoenix
+23,134263.0,Female,New York
+45,30126.0,Male,Houston
+45,82329.0,Female,Houston
+61,57632.0,Female,Los Angeles
+61,137099.0,Female,Los Angeles
+37,95310.0,Female,Los Angeles
+47,139945.0,Female,Houston
+28,85176.0,Female,New York
+45,149797.0,Female,New York
+42,116066.0,Female,Los Angeles
+56,135500.0,Male,Phoenix
+50,74327.0,Male,New York
+18,98904.0,Female,Houston
+44,33797.0,Male,Chicago
+30,77882.0,Female,Chicago
+58,43718.0,Female,Chicago
+20,64560.0,Male,Phoenix
+56,106589.0,Female,Los Angeles
+23,52116.0,Female,Houston
+25,66244.0,Female,Phoenix
+44,131721.0,Female,Houston
+26,31645.0,Male,Houston
+54,77523.0,Female,Los Angeles
+50,147718.0,Female,Chicago
+59,49256.0,Female,Los Angeles
+61,131376.0,Male,Phoenix
+41,130158.0,Female,Phoenix
+32,83173.0,Male,Phoenix
+49,67430.0,Male,Los Angeles
+49,69282.0,Female,Houston
+41,149719.0,Female,Houston
+58,93374.0,Male,New York
+29,98244.0,Female,Phoenix
+56,41694.0,Male,Houston
+19,86264.0,Male,New York
+20,105060.0,Female,Houston
+54,127416.0,Female,Phoenix
+34,87545.0,Male,Chicago
+19,148195.0,Male,Phoenix
+19,69224.0,Male,Los Angeles
+45,132516.0,Male,Houston
+40,127945.0,Female,Houston
+54,43224.0,Female,Los Angeles
+49,70738.0,Female,Los Angeles
+50,55150.0,Female,Chicago
+18,93731.0,Female,Houston
+36,79688.0,Male,Houston
+19,129929.0,Female,Chicago
+61,138618.0,Female,New York
+43,103509.0,Female,Chicago
+49,38577.0,Female,Phoenix
+23,38070.0,Female,Houston
+49,38666.0,Male,Los Angeles
+21,87761.0,Male,Phoenix
+28,66368.0,Male,Houston
+34,36783.0,Female,Chicago
+55,141530.0,Male,Phoenix
+41,71914.0,Male,Houston
+22,100507.0,Female,New York
+51,109026.0,Female,New York
+23,145893.0,Female,Los Angeles
+39,141255.0,Male,Houston
+28,140616.0,Male,New York
+33,97526.0,Female,Chicago
+50,100835.0,Female,Houston
+26,75765.0,Male,Chicago
+23,49956.0,Male,Chicago
+33,117895.0,Female,New York
+46,76240.0,Female,Houston
+20,67148.0,Male,Phoenix
+37,,Female,New York
+53,34757.0,Male,New York
+36,49097.0,Male,Houston
+43,40395.0,Male,Houston
+20,46241.0,Male,Chicago
+36,133892.0,Female,Houston
+37,57696.0,Female,Chicago
+49,145654.0,Male,New York
+24,,Male,Los Angeles
+58,76163.0,Male,Phoenix
+50,49816.0,Male,New York
+57,79840.0,Male,Houston
+56,,Female,Phoenix
+35,82853.0,Female,Los Angeles
+57,54917.0,Female,Los Angeles
+18,126731.0,Female,Chicago
+28,51566.0,Male,Phoenix
+45,105452.0,Male,Chicago
+42,92823.0,Male,New York
+40,50806.0,Male,Phoenix
+48,105520.0,Male,New York
+47,31759.0,Female,Chicago
+59,71949.0,Male,Phoenix
+52,122374.0,Female,Chicago
+24,32482.0,Female,Phoenix
+33,54442.0,Female,Chicago
+43,,Female,Los Angeles
+19,88066.0,Male,Chicago
+18,123501.0,Female,Los Angeles
+29,32079.0,Female,Chicago
+22,32717.0,Female,Phoenix
+54,89676.0,Male,Phoenix
+49,57952.0,Male,Phoenix
+26,116444.0,Male,Houston
+58,72460.0,Female,New York
+52,120397.0,Female,Phoenix
+36,102847.0,Male,Los Angeles
+33,123607.0,Female,Phoenix
+20,,Male,Houston
+37,48449.0,Male,Los Angeles
+41,63536.0,Female,Houston
+50,94077.0,Female,Los Angeles
+41,68258.0,Female,Chicago
+28,78302.0,Female,New York
+25,58865.0,Male,New York
+53,36645.0,Male,Houston
+55,149771.0,Male,New York
+57,68000.0,Male,Houston
+37,56737.0,Male,Houston
+52,41485.0,Female,Houston
+42,68565.0,Male,New York
+52,55522.0,Male,Houston
+42,149614.0,Male,New York
+46,95155.0,Female,Houston
+35,85168.0,Female,Phoenix
+63,82487.0,Female,Houston
+35,42342.0,Female,Los Angeles
+19,70806.0,Male,Houston
+52,78770.0,Male,Chicago
+33,108623.0,Female,Houston
+58,133177.0,Female,Los Angeles
+53,129785.0,Male,Los Angeles
+50,105629.0,Male,New York
+21,82603.0,Female,Phoenix
+50,142726.0,Female,Houston
+31,111974.0,Female,New York
+38,135947.0,Female,Phoenix
+37,56399.0,Male,Houston
+25,115382.0,Male,Chicago
+24,111244.0,Male,Houston
+20,139575.0,Female,Los Angeles
+34,145520.0,Female,Los Angeles
+50,140904.0,Male,Chicago
+29,106534.0,Male,New York
+39,85106.0,Male,Phoenix
+39,142599.0,Male,Houston
+63,60678.0,Female,Los Angeles
+47,106218.0,Male,New York
+55,93230.0,Male,Chicago
+55,144684.0,Male,Los Angeles
+62,104055.0,Male,Chicago
+25,86373.0,Male,Houston
+44,61480.0,Male,Phoenix
+44,115230.0,Male,Los Angeles
+51,98836.0,Female,Los Angeles
+38,102258.0,Female,Houston
+47,69986.0,Female,New York
+50,54160.0,Female,Phoenix
+45,115595.0,Male,Los Angeles
+64,131358.0,Female,Phoenix
+50,109111.0,Female,Los Angeles
+22,94929.0,Male,Phoenix
+36,103506.0,Male,Chicago
+21,64911.0,Female,Los Angeles
+52,117127.0,Female,Phoenix
+34,61821.0,Male,New York
+61,105039.0,Female,Chicago
+45,90535.0,Male,Chicago
+47,143453.0,Male,New York
+46,114458.0,Male,Phoenix
+63,,Male,Houston
+23,149235.0,Female,New York
+52,84771.0,Male,Phoenix
+58,136660.0,Male,New York
+54,116925.0,Female,New York
+41,143374.0,Male,Los Angeles
+46,96358.0,Female,Phoenix
+63,47327.0,Female,Houston
+48,77057.0,Female,Los Angeles
+52,36150.0,Male,New York
+50,34425.0,Female,New York
+38,46032.0,Female,New York
+49,,Male,Phoenix
+40,90500.0,Female,Phoenix
+50,83394.0,Female,Los Angeles
+20,50079.0,Female,Houston
+35,66220.0,Female,Los Angeles
+42,71874.0,Female,Chicago
+59,43859.0,Male,New York
+48,80460.0,Female,New York
+20,61419.0,Female,New York
+57,148865.0,Male,Los Angeles
+63,38705.0,Male,Los Angeles
+41,72880.0,Male,New York
+49,53236.0,Female,Los Angeles
+64,117955.0,Male,Phoenix
+39,115514.0,Female,Phoenix
+40,133145.0,Female,Los Angeles
+19,,Male,New York
+44,129713.0,Male,Los Angeles
+59,124914.0,Female,Los Angeles
+19,132870.0,Male,Los Angeles
+43,106918.0,Female,Chicago
+34,149179.0,Male,Phoenix
+57,146243.0,Male,Houston
+50,44596.0,Male,Houston
+26,63572.0,Female,Chicago
+60,108757.0,Male,Los Angeles
+56,31279.0,Female,Chicago
+46,93197.0,Female,Chicago
+59,141496.0,Female,New York
+43,92516.0,Female,Phoenix
+52,37083.0,Male,Houston
+42,139397.0,Female,Los Angeles
+41,47771.0,Female,Houston
+30,59975.0,Male,Houston
+24,75648.0,Female,Phoenix
+53,78285.0,Male,Houston
+62,,Female,Houston
+37,97642.0,Male,Chicago
+18,120093.0,Female,Phoenix
+25,,Male,New York
+63,116143.0,Female,Los Angeles
+33,67599.0,Female,Houston
+31,81920.0,Male,Los Angeles
+29,58529.0,Male,New York
+40,65954.0,Male,Los Angeles
+32,57856.0,Male,New York
+45,32573.0,Female,Chicago
+51,108344.0,Female,Houston
+19,65367.0,Male,New York
+49,132337.0,Female,Los Angeles
+40,,Male,Houston
+39,129608.0,Male,Chicago
+42,90774.0,Female,Houston
+39,53752.0,Female,New York
+39,85029.0,Female,Chicago
+59,47685.0,Female,Los Angeles
+23,81693.0,Female,Chicago
+32,146739.0,Female,Chicago
+60,85961.0,Female,Phoenix
+54,136937.0,Male,Chicago
+50,106908.0,Male,Chicago
+25,104532.0,Male,Houston
+61,111994.0,Male,Los Angeles
+61,86133.0,Male,Houston
+22,,Female,Houston
+56,91268.0,Male,New York
+21,,Male,Houston
+23,68243.0,Male,Phoenix
+62,87384.0,Male,Phoenix
+49,,Male,New York
+47,56657.0,Male,Los Angeles
+64,69952.0,Male,Los Angeles
+52,52180.0,Female,Houston
+57,127432.0,Female,Houston
+33,,Male,Houston
+30,31622.0,Female,Los Angeles
+59,78756.0,Female,Chicago
+47,70809.0,Female,Phoenix
+36,46725.0,Female,Chicago
+34,,Male,Chicago
+36,81226.0,Female,Los Angeles
+45,136296.0,Female,Chicago
+43,111182.0,Female,New York
+54,112565.0,Male,Houston
+43,59402.0,Male,New York
+40,34263.0,Male,Phoenix
+26,126523.0,Male,Houston
+29,76828.0,Male,Chicago
+18,77924.0,Male,Phoenix
+18,104182.0,Male,Houston
+64,123065.0,Female,Chicago
+51,89052.0,Female,New York
+49,41664.0,Female,Houston
+42,65737.0,Male,Chicago
+57,131332.0,Male,New York
+62,119563.0,Male,Phoenix
+18,59373.0,Male,Phoenix
+33,147369.0,Male,Phoenix
+56,66397.0,Female,Phoenix
+22,116145.0,Female,Los Angeles
+39,131371.0,Male,Houston
+46,68709.0,Male,Houston
+20,146074.0,Male,Los Angeles
+29,91120.0,Male,Chicago
+43,49250.0,Female,Chicago
+33,51172.0,Male,Phoenix
+54,41555.0,Male,New York
+39,117410.0,Male,Chicago
+46,108617.0,Male,New York
+31,83276.0,Female,Houston
+45,87492.0,Male,New York
+22,83002.0,Male,Houston
+64,119599.0,Female,Los Angeles
+47,102355.0,Female,Los Angeles
+63,121248.0,Female,Phoenix
+22,54762.0,Male,Chicago
+29,41046.0,Male,Phoenix
+33,126999.0,Female,Houston
+43,146021.0,Female,Phoenix
+43,58769.0,Female,New York
+38,83302.0,Female,Houston
+56,53150.0,Female,Los Angeles
+53,98247.0,Female,Chicago
+50,,Male,Houston
+47,124613.0,Male,Houston
+54,119399.0,Male,New York
+40,51792.0,Female,Chicago
+27,89129.0,Female,Los Angeles
+22,136019.0,Female,Houston
+53,,Female,Houston
+51,143811.0,Female,New York
+48,144130.0,Female,Phoenix
+27,97298.0,Male,Los Angeles
+36,61987.0,Male,Chicago
+49,45850.0,Female,Houston
+18,42112.0,Male,Houston
+22,54058.0,Female,Los Angeles
+62,,Male,Phoenix
+21,68890.0,Female,Houston
+33,96017.0,Female,Los Angeles
+41,,Male,New York
+33,62921.0,Male,Phoenix
+19,135921.0,Female,Chicago
+45,31524.0,Female,Houston
+49,130424.0,Male,Los Angeles
+44,45048.0,Male,New York
+37,65111.0,Female,Chicago
+41,67904.0,Male,Los Angeles
+29,84912.0,Female,Los Angeles
+52,64008.0,Female,Chicago
+50,30060.0,Female,New York
+50,104666.0,Female,New York
+60,113559.0,Male,Phoenix
+54,85337.0,Male,Houston
+29,140616.0,Male,Chicago
+20,43350.0,Male,Chicago
+18,54354.0,Male,Chicago
+50,75186.0,Male,New York
+57,58145.0,Male,Houston
+27,64020.0,Female,Phoenix
+60,,Male,Los Angeles
+61,136667.0,Male,Los Angeles
+46,105186.0,Female,Chicago
+30,115469.0,Male,Houston
+29,50581.0,Male,New York
+48,,Female,Houston
+63,53051.0,Male,Houston
+19,81474.0,Male,New York
+52,121748.0,Male,Chicago
+40,144618.0,Female,Houston
+34,99626.0,Male,Los Angeles
+43,36960.0,Male,New York
+25,65772.0,Female,Phoenix
+46,51520.0,Male,Chicago
+43,79481.0,Female,New York
+27,66408.0,Female,Phoenix
+43,124006.0,Male,Phoenix
+51,87134.0,Female,Houston
+58,50491.0,Female,Houston
+24,31341.0,Male,Houston
+21,74623.0,Female,New York
+62,120327.0,Female,New York
+28,30338.0,Male,Chicago
+46,101431.0,Male,Houston
+53,42254.0,Male,Phoenix
+42,81860.0,Female,Los Angeles
+38,41344.0,Male,Chicago
+53,31750.0,Female,New York
+27,84756.0,Female,Chicago
+54,97957.0,Female,Chicago
+26,135423.0,Female,Chicago
+41,88053.0,Female,Chicago
+52,100855.0,Female,Los Angeles
+52,45896.0,Female,Houston
+53,85761.0,Male,Phoenix
+35,,Male,Chicago
+56,107454.0,Female,Chicago
+49,,Female,Chicago
+41,120600.0,Male,Houston
+40,142153.0,Female,New York
+49,57935.0,Male,New York
+54,67641.0,Male,Los Angeles
+29,59711.0,Male,New York
+30,100342.0,Female,Chicago
+40,136896.0,Female,Chicago
+42,42182.0,Male,Chicago
+52,117833.0,Male,Los Angeles
+58,86276.0,Male,Chicago
+47,49541.0,Male,New York
+34,124457.0,Male,Houston
+37,112310.0,Female,Houston
+42,74813.0,Male,Phoenix
+39,67198.0,Female,New York
+30,,Male,Chicago
+36,54070.0,Female,Houston
+53,99768.0,Female,New York
+29,41122.0,Female,Houston
+58,110559.0,Female,Chicago
+36,103543.0,Female,Houston
+29,113441.0,Female,Phoenix
+26,,Male,Phoenix
+24,124934.0,Female,Houston
+45,129804.0,Male,New York
+31,36737.0,Female,New York
+48,66062.0,Female,New York
+36,84237.0,Male,Houston
+64,81571.0,Female,New York
+33,55510.0,Male,Chicago
+22,49426.0,Male,Phoenix
+52,67265.0,Male,Chicago
+29,47850.0,Male,New York
+42,,Female,Chicago
+38,96150.0,Female,New York
+53,117312.0,Male,Houston
+40,119613.0,Female,Chicago
+33,104910.0,Female,Houston
+56,82375.0,Male,Houston
+62,65435.0,Female,Los Angeles
+59,126443.0,Male,New York
+56,87132.0,Male,Phoenix
+31,108945.0,Female,New York
+48,112050.0,Female,Phoenix
+22,125402.0,Female,New York
+52,32983.0,Male,Houston
+40,127241.0,Male,Chicago
+46,50662.0,Female,Chicago
+60,53510.0,Female,Los Angeles
+28,108187.0,Female,Phoenix
+35,70998.0,Female,Phoenix
+64,86846.0,Male,Phoenix
+29,124071.0,Female,Houston
+26,36640.0,Male,Phoenix
+27,74547.0,Male,Chicago
+61,84620.0,Female,Houston
+34,45317.0,Female,New York
+55,145608.0,Female,Phoenix
+24,37564.0,Male,Phoenix
+63,57345.0,Female,New York
+30,143824.0,Female,Phoenix
+57,124223.0,Male,New York
+59,109273.0,Female,Houston
+26,104859.0,Male,Chicago
+44,110765.0,Female,New York
+19,140017.0,Male,Los Angeles
+22,104038.0,Female,New York
+46,82393.0,Female,Phoenix
+54,96081.0,Male,Houston
+55,132650.0,Male,Houston
+36,59430.0,Female,New York
+25,105532.0,Male,Chicago
+62,57788.0,Male,Los Angeles
+18,125505.0,Male,Houston
+39,78543.0,Male,Phoenix
+34,43919.0,Female,Phoenix
+24,99346.0,Female,Chicago
+42,126122.0,Male,Houston
+62,69974.0,Male,New York
+21,137309.0,Male,Phoenix
+53,46371.0,Male,Chicago
+23,,Female,Houston
+48,59629.0,Female,Houston
+36,81184.0,Male,Houston
+61,91916.0,Male,Houston
+56,103972.0,Male,Houston
+44,92187.0,Female,Phoenix
+27,42984.0,Male,Chicago
+43,63039.0,Female,Houston
+36,115431.0,Male,Los Angeles
+56,113691.0,Female,Los Angeles
+20,88606.0,Male,Chicago
+62,40616.0,Female,New York
+30,132665.0,Male,New York
+45,135373.0,Male,New York
+37,,Male,Los Angeles
+45,54574.0,Female,New York
+25,33430.0,Male,Phoenix
+58,149123.0,Female,Houston
+56,42676.0,Female,Los Angeles
+18,40816.0,Male,Chicago
+20,62733.0,Male,Chicago
+30,115680.0,Male,Houston
+45,32050.0,Female,Los Angeles
+42,139996.0,Male,New York
+50,63933.0,Female,New York
+55,54951.0,Female,Phoenix
+23,,Male,Phoenix
+61,64801.0,Male,New York
+62,85619.0,Male,Chicago
+49,62913.0,Male,Chicago
+62,142573.0,Male,Phoenix
+64,149076.0,Male,Houston
+38,70600.0,Female,New York
+33,87775.0,Female,Phoenix
+38,120816.0,Female,Phoenix
+28,120093.0,Male,New York
+54,142590.0,Female,New York
+53,65400.0,Female,Chicago
+52,34494.0,Female,Houston
+36,110688.0,Female,Houston
+37,119431.0,Female,New York
+35,104691.0,Male,Los Angeles
+64,127419.0,Male,Phoenix
+58,138730.0,Female,Phoenix
+31,73001.0,Female,New York
+32,97364.0,Female,Los Angeles
+48,75028.0,Male,Chicago
+18,137434.0,Male,New York
+20,127659.0,Female,New York
+33,67573.0,Male,Phoenix
+40,30806.0,Male,New York
+28,,Female,New York
+29,136506.0,Male,New York
+27,59757.0,Male,Phoenix
+49,64636.0,Female,Chicago
+33,110097.0,Male,Chicago
+25,78280.0,Male,New York
+55,54262.0,Female,Phoenix
+29,110435.0,Male,Chicago
+41,,Male,Chicago
+45,84842.0,Female,Chicago
+25,86979.0,Female,Phoenix
+45,144524.0,Female,Phoenix
+53,111470.0,Male,New York
+43,68197.0,Female,Houston
+25,71844.0,Male,Chicago
+45,94754.0,Female,Houston
+45,131868.0,Male,Phoenix
+54,64157.0,Female,Phoenix
+58,107129.0,Female,Phoenix
+53,70042.0,Female,Houston
+44,91665.0,Female,Phoenix
+34,145512.0,Male,New York
+26,146953.0,Female,Phoenix
+50,112856.0,Female,Los Angeles
+37,57376.0,Male,Houston
+30,139049.0,Female,Los Angeles
+45,85554.0,Male,Phoenix
+46,44199.0,Female,New York
+30,148533.0,Female,Chicago
+63,111412.0,Female,Phoenix
+52,80948.0,Male,New York
+23,103781.0,Female,Houston
+35,102750.0,Female,Los Angeles
+22,96262.0,Female,Los Angeles
+64,147424.0,Male,Los Angeles
+42,,Male,Houston
+19,106898.0,Female,New York
+27,92483.0,Male,Houston
+47,48297.0,Female,Los Angeles
+62,60448.0,Female,Phoenix
+22,56172.0,Female,Chicago
+50,72874.0,Female,Houston
+18,37657.0,Female,Houston
+35,114386.0,Female,New York
+49,55425.0,Female,New York
+64,56685.0,Male,Houston
+28,142855.0,Male,Los Angeles
+38,54578.0,Male,Chicago
+43,58831.0,Male,New York
+42,37906.0,Male,Los Angeles
+39,91413.0,Male,Phoenix
+44,,Male,New York
+30,37287.0,Female,Los Angeles
+50,63660.0,Female,Los Angeles
+51,105758.0,Female,Chicago
+58,90504.0,Female,Chicago
+52,89720.0,Male,Phoenix
+18,132979.0,Male,Los Angeles
+38,64701.0,Female,Los Angeles
+23,113300.0,Female,Chicago
+45,140177.0,Male,New York
+34,47674.0,Female,New York
+22,113560.0,Female,Houston
+48,141543.0,Female,Chicago
+22,53874.0,Female,Houston
+55,73642.0,Male,Chicago
+20,127820.0,Female,Phoenix
+40,95160.0,Female,Los Angeles
+54,47602.0,Male,Phoenix
+54,133320.0,Male,Chicago
+27,118801.0,Female,Los Angeles
+27,55931.0,Male,New York
+36,124377.0,Female,New York
+34,59192.0,Female,Houston
+38,76542.0,Male,Chicago
+31,72520.0,Female,Chicago
+26,94772.0,Female,New York
+63,88762.0,Female,Phoenix
+18,80106.0,Female,Los Angeles
+62,111121.0,Male,Phoenix
+30,55559.0,Male,Phoenix
+21,135595.0,Female,New York
+18,,Male,New York
+57,99669.0,Female,New York
+49,110199.0,Female,Houston
+51,51754.0,Female,Phoenix
+45,33972.0,Female,Chicago
+48,100831.0,Female,Los Angeles
+25,142217.0,Male,Houston
+56,71873.0,Female,Chicago
+43,124661.0,Male,Phoenix
+51,136532.0,Male,New York
+20,39903.0,Female,Phoenix
+29,33020.0,Female,Los Angeles
+18,71755.0,Female,Houston
+61,115956.0,Female,Houston
+22,116988.0,Female,Los Angeles
+47,,Male,Chicago
+47,133537.0,Female,Chicago
+34,39516.0,Female,Houston
+64,142863.0,Male,Houston
+40,145005.0,Male,New York
+32,32396.0,Female,Chicago
+54,114082.0,Male,Los Angeles
+38,49129.0,Female,Chicago
+31,31591.0,Male,New York
+19,41303.0,Male,Houston
+28,60561.0,Female,Houston
+56,101719.0,Male,New York
+55,148618.0,Male,Los Angeles
+51,122108.0,Male,Houston
+55,129616.0,Male,Phoenix
+51,116231.0,Male,Houston
+35,37314.0,Male,Phoenix
+47,147071.0,Female,New York
+32,49623.0,Female,New York
+44,97675.0,Male,Houston
+51,142992.0,Female,Chicago
+55,126826.0,Female,Phoenix
+50,95082.0,Female,Los Angeles
+41,113624.0,Male,Houston
+32,135228.0,Female,Los Angeles
+47,63130.0,Male,Houston
+59,81756.0,Female,Chicago
+34,127624.0,Male,Chicago
+22,56292.0,Male,Chicago
+46,141785.0,Female,Chicago
+21,116206.0,Female,New York
+27,99274.0,Male,New York
+34,32469.0,Female,Phoenix
+27,83947.0,Female,Los Angeles
+34,52534.0,Female,Houston
+37,93620.0,Male,Houston
+41,78874.0,Male,New York
+22,79708.0,Female,Houston
+51,104553.0,Female,New York
+23,98344.0,Female,Phoenix
+19,79138.0,Male,Los Angeles
+30,84302.0,Male,Phoenix
+60,77638.0,Female,Chicago
+60,108249.0,Female,Chicago
+28,135865.0,Female,Chicago
+64,32719.0,Female,Phoenix
+40,52890.0,Female,Houston
+33,,Female,Los Angeles
+48,66509.0,Male,Chicago
+28,72534.0,Female,Chicago
+33,132302.0,Male,Chicago
+25,122241.0,Female,Los Angeles
+21,48787.0,Female,Chicago
+57,78845.0,Male,Los Angeles
+21,87932.0,Male,Chicago
+42,122124.0,Male,Phoenix
+20,,Male,Phoenix
+49,63062.0,Female,Los Angeles
+20,105713.0,Male,Phoenix
+44,117263.0,Female,Los Angeles
+46,125756.0,Male,Phoenix
+49,90461.0,Female,Phoenix
+36,105418.0,Female,Los Angeles
+38,96672.0,Female,Houston
+22,64832.0,Female,Phoenix
+35,,Female,Chicago
+45,102545.0,Female,Houston
+59,42987.0,Male,Los Angeles
+39,67311.0,Female,Houston
+38,61575.0,Male,New York
+23,93852.0,Male,New York
+18,31007.0,Female,Phoenix
+22,100981.0,Male,Phoenix
+58,106242.0,Female,Chicago
+29,77517.0,Male,Houston
+43,140022.0,Female,New York
+63,59257.0,Male,Phoenix
+51,117272.0,Female,Houston
+31,72207.0,Female,Phoenix
+43,43281.0,Female,Phoenix
+62,91246.0,Female,New York
+44,31435.0,Male,New York
+26,128875.0,Female,Phoenix
+43,130686.0,Male,Los Angeles
+64,121357.0,Male,Phoenix
+39,56660.0,Male,Phoenix
+64,35084.0,Female,Chicago
+47,112197.0,Male,Chicago
+60,43507.0,Male,Chicago
+34,102595.0,Male,Los Angeles
+43,113807.0,Female,Los Angeles
+53,75539.0,Female,Phoenix
+18,145953.0,Male,Chicago
+25,37491.0,Female,Los Angeles
+52,142831.0,Female,New York
+32,80192.0,Male,Phoenix
+64,110395.0,Male,Houston
+39,93888.0,Female,Phoenix
+31,103609.0,Male,Houston
+43,39077.0,Female,Chicago
+45,147440.0,Female,Houston
+40,50953.0,Female,Chicago
+31,106919.0,Female,New York
+41,144682.0,Female,Houston
+19,97889.0,Female,Phoenix
+62,53821.0,Male,Chicago
+43,67567.0,Male,Phoenix
+31,145374.0,Female,Los Angeles
+24,54860.0,Female,Chicago
+20,51195.0,Female,Houston
+64,107475.0,Male,Chicago
+40,120874.0,Female,Phoenix
+63,117266.0,Male,New York
+60,51427.0,Female,Chicago
+64,130732.0,Female,Houston
+62,57083.0,Male,Los Angeles
+35,117046.0,Male,New York
+55,87372.0,Female,Los Angeles
+52,74064.0,Female,Chicago
+32,37813.0,Female,Phoenix
+42,61598.0,Male,Phoenix
+54,142718.0,Male,Houston
+45,,Male,Phoenix
+27,57082.0,Male,New York
+56,59241.0,Male,Phoenix
+34,126214.0,Male,Houston
+56,74569.0,Female,Chicago
+39,41745.0,Female,Chicago
+43,56029.0,Male,Phoenix
+61,43025.0,Female,Los Angeles
+42,131660.0,Female,Chicago
+34,,Male,Phoenix
+30,119186.0,Female,Houston
+37,36540.0,Male,Phoenix
+42,127768.0,Male,Chicago
+21,111958.0,Female,Houston
+27,98878.0,Male,Phoenix
+20,71846.0,Male,New York
+58,131148.0,Male,Houston
+62,105932.0,Male,New York
+35,47482.0,Male,Los Angeles
+64,53411.0,Male,Houston
+53,80975.0,Male,New York
+64,90545.0,Male,Chicago
+39,142302.0,Female,Chicago
+51,108797.0,Female,Los Angeles
+64,82307.0,Female,Houston
+25,33093.0,Male,Houston
+57,107258.0,Male,Houston
+61,52042.0,Female,Los Angeles
+36,82930.0,Female,Houston
+59,147584.0,Female,Chicago
+58,74413.0,Male,New York
+54,143387.0,Female,Chicago
+23,123623.0,Female,Chicago
+43,127883.0,Male,New York
+51,63756.0,Female,Chicago
+62,83268.0,Male,Los Angeles
+23,69214.0,Male,New York
+54,111871.0,Male,Chicago
+50,58602.0,Female,Phoenix
+39,83331.0,Female,Chicago
+38,78901.0,Male,Los Angeles
+23,129986.0,Female,Houston
+23,93416.0,Female,Chicago
+21,62196.0,Female,Houston
+47,35626.0,Female,Phoenix
+28,37424.0,Male,Chicago
+47,42857.0,Female,New York
+48,140459.0,Male,Houston
+41,145621.0,Male,Phoenix
+26,49982.0,Female,New York
+20,106961.0,Male,New York
+48,31980.0,Female,New York
+57,78290.0,Female,New York
+54,56431.0,Male,Chicago
+53,114976.0,Male,Chicago
+41,137288.0,Male,Chicago
+48,112711.0,Male,Phoenix
+23,144187.0,Female,Phoenix
+19,56385.0,Female,Phoenix
+37,68158.0,Female,Los Angeles
+45,,Male,Phoenix
+28,48639.0,Male,Chicago
+21,115530.0,Male,Chicago
+32,129911.0,Female,Los Angeles
+23,51563.0,Male,Los Angeles
+47,69341.0,Female,Phoenix
+55,145672.0,Male,Houston
+19,35776.0,Female,Los Angeles
+32,66444.0,Female,New York
+28,98916.0,Male,Chicago
+25,38711.0,Male,New York
+43,104318.0,Female,Chicago
+62,112970.0,Female,Chicago
+61,142301.0,Male,Los Angeles
+22,115553.0,Male,Los Angeles
+23,60707.0,Female,New York
+43,69110.0,Male,Chicago
+21,91788.0,Female,New York
+36,112879.0,Female,Houston
+37,68827.0,Male,New York
+50,137188.0,Male,Phoenix
+37,35655.0,Male,New York
+29,,Male,Phoenix
+64,83625.0,Male,Phoenix
+18,82098.0,Female,Phoenix
+43,45251.0,Female,Houston
+31,30526.0,Male,New York
+55,98760.0,Male,New York
+54,77837.0,Male,Houston
+28,41536.0,Female,Chicago
+53,58541.0,Male,Los Angeles
+30,109083.0,Male,New York
+60,81027.0,Female,Los Angeles
+20,64531.0,Female,Houston
+50,38712.0,Male,Chicago
+23,134101.0,Male,Chicago
+27,,Male,Chicago
+22,104744.0,Female,Houston
+40,35109.0,Male,Phoenix
+27,79268.0,Male,Phoenix
+61,130737.0,Male,Los Angeles
+19,84615.0,Female,Phoenix
+41,71914.0,Male,Houston
+33,87775.0,Female,Phoenix
+27,89129.0,Female,Los Angeles
+40,139777.0,Male,Chicago
+40,51792.0,Female,Chicago
+47,42219.0,Female,New York
+64,117955.0,Male,Phoenix
+56,87132.0,Male,Phoenix
+46,50662.0,Female,Chicago
+51,108344.0,Female,Houston
+56,101719.0,Male,New York
+47,31759.0,Female,Chicago
+32,73925.0,Female,Los Angeles
+55,98760.0,Male,New York
+41,120600.0,Male,Houston
+56,47368.0,Male,New York
+22,116988.0,Female,Los Angeles
+47,69986.0,Female,New York
+54,41555.0,Male,New York
+54,143387.0,Female,Chicago
